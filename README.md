@@ -1,8 +1,9 @@
 # 🕹️ Cub3D
 
 <p align="center">
- [ <img src="https://user-images.githubusercontent.com/67792080/183267948-05d7a148-3468-4df6-a3c2-3d7e7b84eb5c.png" width="400" />](https://github.com/ramasham/Cub3D_42/issues/1#issue-3212658666)
+  <img src="https://user-images.githubusercontent.com/67792080/183267948-05d7a148-3468-4df6-a3c2-3d7e7b84eb5c.png" width="400" />
 </p>
+
 
 Cub3D is a 3D graphical project developed at 42 School. It simulates a basic raycasting engine inspired by Wolfenstein 3D, allowing the user to move and look around in a 3D-rendered world using a 2D map.
 
