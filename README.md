@@ -1,7 +1,7 @@
 # 🕹️ Cub3D
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67792080/183267948-05d7a148-3468-4df6-a3c2-3d7e7b84eb5c.png" width="400" />
+  <img src="https://github.com/user-attachments/assets/f6a32b7b-3b91-4875-97f5-afe998db44e5" width="600" />
 </p>
 
 
