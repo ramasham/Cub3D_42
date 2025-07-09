@@ -61,11 +61,8 @@ C 225,30,0
 1111111111
 
 NO/SO/WE/EA: Texture paths for walls
-
 F/C: RGB colors for Floor and Ceiling
-
 1: Wall, 0: Empty space
-
 N: Player starting position and direction
 
 ```
