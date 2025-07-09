@@ -11,7 +11,6 @@ It recreates a classic raycasting engine like that in *Wolfenstein 3D*, transfor
 > 🛠️ **Built with:** C, MiniLibX (X11), Linux  
 > 🎮 **Goal:** Create a 3D-like game experience from scratch with low-level tools  
 > 💡 **Key Concepts:** Raycasting, real-time rendering, vector math, player control, texture mapping
-> 🛠️ **Technologies:** C, MiniLibX (X11), Math (Raycasting, Vectors), Linux
 
 ---
 
