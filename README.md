@@ -68,6 +68,6 @@ N: Player starting position and direction
 ```
 
 ## 👥 Team
-This project was developed as part of the 42 School curriculum by:
+This project was developed as part of the 42 School curriculum by:  
 🧑‍💻 [@ramasham](https://github.com/ramasham)  
 🧑‍💻 [@sarahayman22](https://github.com/sarahayman22)
