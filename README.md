@@ -65,7 +65,3 @@ F/C: RGB colors for Floor and Ceiling
 1: Wall, 0: Empty space
 
 N: Player starting position and direction
-
---
-
-
