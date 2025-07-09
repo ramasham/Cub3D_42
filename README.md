@@ -64,4 +64,11 @@ F/C: RGB colors for Floor and Ceiling
 
 1: Wall, 0: Empty space
 
-N: Player starting position and direction
+N: Player starting position and direction  
+
+<br>
+👥 Team
+This project was developed as part of the 42 School curriculum by:
+
+🧑‍💻 @ramasham
+🧑‍💻 @sarahayman22
