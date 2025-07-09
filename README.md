@@ -7,6 +7,10 @@
 **Cub3D** is a 3D graphical project developed as part of the curriculum at [42 School](https://42.fr/).  
 It recreates a classic raycasting engine like that in *Wolfenstein 3D*, transforming a simple 2D map into a real-time 3D first-person experience — built entirely in C using the MiniLibX graphics library.
 
+
+> 🛠️ **Built with:** C, MiniLibX (X11), Linux  
+> 🎮 **Goal:** Create a 3D-like game experience from scratch with low-level tools  
+> 💡 **Key Concepts:** Raycasting, real-time rendering, vector math, player control, texture mapping
 > 🛠️ **Technologies:** C, MiniLibX (X11), Math (Raycasting, Vectors), Linux
 
 ---
