@@ -43,7 +43,6 @@ It recreates a classic raycasting engine like that in *Wolfenstein 3D*, transfor
 ---
 
 ## 🧾 File Format Example (`.cub`)
-
 ```cub
 NO ./textures/north.xpm
 SO ./textures/south.xpm
@@ -64,11 +63,11 @@ F/C: RGB colors for Floor and Ceiling
 
 1: Wall, 0: Empty space
 
-N: Player starting position and direction  
+N: Player starting position and direction
 
-`<br>`
-👥 Team
+```
+
+## 👥 Team
 This project was developed as part of the 42 School curriculum by:
-
 🧑‍💻 [@ramasham](https://github.com/ramasham)
 🧑‍💻 [@sarahayman22](https://github.com/sarahayman22)
